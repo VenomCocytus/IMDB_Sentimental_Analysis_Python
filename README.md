@@ -1,0 +1,2 @@
+# IMDB_Sentimental_Analysis_Python
+Binary Sentimental Analysis
